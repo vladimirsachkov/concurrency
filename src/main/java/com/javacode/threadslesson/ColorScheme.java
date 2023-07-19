@@ -1,4 +1,4 @@
-package com.javacode;
+package com.javacode.threadslesson;
 
 public class ColorScheme {
     public static final String RESET = "\u001B[0m";

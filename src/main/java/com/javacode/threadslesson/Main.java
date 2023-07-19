@@ -1,7 +1,7 @@
-package com.javacode;
+package com.javacode.threadslesson;
 
-import static com.javacode.ColorScheme.GREEN;
-import static com.javacode.ColorScheme.YELLOW;
+import static com.javacode.threadslesson.ColorScheme.GREEN;
+import static com.javacode.threadslesson.ColorScheme.YELLOW;
 
 public class Main {
     public static void main(String[] args) {
